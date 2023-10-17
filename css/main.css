@@ -18,7 +18,7 @@ body {
 }
 
 .content {
-  /* Add display: flex; and the Flexbox properties to center the "content" */
+  /* Add display: flex; and the Flexbox properties to center the paragraph */
 
   /* This is a fallback for the translucent background for older browsers */
   background: #222;
